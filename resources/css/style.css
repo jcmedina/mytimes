@@ -19,10 +19,11 @@ header {
 nav {
   display: flex;
   justify-content: space-between;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 .logo {
   max-height: 50px;
-  padding-left: 10px;
 }
 .main-nav li {
   display: inline;
@@ -97,6 +98,7 @@ nav {
   width: 300px;
   padding: 20px;
   margin: 40px;
+  opacity: 1;
 }
 .location span {
   padding: 10px;
